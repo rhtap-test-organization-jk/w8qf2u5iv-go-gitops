@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w8qf2u5iv-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/w8qf2u5iv-go
